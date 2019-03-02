@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">HelloAppKotlin</string>
+    <string name="random_reading">Here is the random number betewen 0 and %1d</string>
+</resources>
